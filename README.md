@@ -12,8 +12,7 @@ Make sure the following dependencies are installed on your system:
 
 Clone the project repository from GitHub:
 
-git clone https://github.com/your-username/your-blog-repo.git
-cd your-blog-repo
+git clone https://github.com/Tsakhani/Blog-Website-with-docker/tree/main)
 
 3. Build and Start the Services
 
